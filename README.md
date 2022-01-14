@@ -1,3 +1,9 @@
 # hello-world
+### Description
 getting to know git
-I like kayaking
+
+#### About Me
+* I like kayaking
+* I like coading
+* I like cycling
+* I like math
