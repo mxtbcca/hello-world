@@ -7,3 +7,8 @@ getting to know git
 * I like coading
 * I like cycling
 * I like math
+---
+
+***
+
+QED
