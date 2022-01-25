@@ -13,6 +13,8 @@ getting to know git
 |1|Ana|Ascot|
 |2|Bob|Brown|
 |3|Carol|Cassidy|
+|4|Dan|Downton|
+
 ***
 
 QED
