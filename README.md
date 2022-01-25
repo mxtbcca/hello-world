@@ -8,7 +8,11 @@ getting to know git
 * I like cycling
 * I like math
 ---
-
+|id|Last Name|First Name|
+|-|-|-|
+|1|Ana|Ascot|
+|2|Bob|Brown|
+|3|Carol|Cassidy|
 ***
 
 QED
